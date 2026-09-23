@@ -1,0 +1,14 @@
+# 基础运行依赖（默认栈，零重依赖、可复现）
+pydantic>=2.6,<3
+pyyaml>=6.0,<7
+numpy>=1.26,<3
+fastapi>=0.110,<1
+uvicorn[standard]>=0.29,<1
+httpx>=0.27,<1
+
+# 世界顶级后端（可选，按需安装；缺失时容器给出明确提示）
+# sentence-transformers>=2.6
+# chromadb>=0.5
+# faiss-cpu>=1.8
+# ctransformers>=0.2.27
+# pypdf>=4.0
