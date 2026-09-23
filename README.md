@@ -1,5 +1,12 @@
 # aether-ai-core（晨星智核）
 
+<p align="center">
+  <a href="https://github.com/CJX0712/aether-ai-core-43873e/actions/workflows/ci.yml"><img src="https://github.com/CJX0712/aether-ai-core-43873e/actions/workflows/ci.yml/badge.svg" alt="ci"></a>
+  <a href="https://github.com/CJX0712/aether-ai-core-43873e/releases"><img src="https://img.shields.io/github/v/release/CJX0712/aether-ai-core-43873e?sort=semver" alt="release"></a>
+  <a href="https://github.com/CJX0712/aether-ai-core-43873e/blob/master/LICENSE"><img src="https://img.shields.io/github/license/CJX0712/aether-ai-core-43873e" alt="license"></a>
+  <img src="https://img.shields.io/badge/author-%E6%99%A8%E6%98%9F-1f6feb" alt="author">
+</p>
+
 > 端到端、模块化、接口驱动的 AI 系统。默认栈零重依赖、无需 GPU 即可一键复现；
 > 世界顶级开源后端（sentence-transformers / Chroma / FAISS / vLLM·Ollama / ctransformers）
 > 以可选适配器形式即插即用。
