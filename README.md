@@ -6,6 +6,8 @@
 
 **作者：晨星**
 
+> 仓库地址：https://github.com/CJX0712/aether-ai-core-43873e
+
 ---
 
 ## 核心特性

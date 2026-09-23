@@ -5,7 +5,7 @@
 ## 1. 本地干净环境复现
 
 ```bash
-git clone <repo> && cd aether-ai-core
+git clone https://github.com/CJX0712/aether-ai-core-43873e.git && cd aether-ai-core-43873e
 python -m venv .venv && source .venv/bin/activate
 pip install -r requirements.lock.txt      # 锁定版本，可复现
 # 或源码可编辑安装：
