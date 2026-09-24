@@ -1,9 +1,9 @@
 # aether-ai-core（晨星智核）
 
 <p align="center">
-  <a href="https://github.com/CJX0712/aether-ai-core-43873e/actions/workflows/ci.yml"><img src="https://github.com/CJX0712/aether-ai-core-43873e/actions/workflows/ci.yml/badge.svg" alt="ci"></a>
-  <a href="https://github.com/CJX0712/aether-ai-core-43873e/releases"><img src="https://img.shields.io/github/v/release/CJX0712/aether-ai-core-43873e?sort=semver" alt="release"></a>
-  <a href="https://github.com/CJX0712/aether-ai-core-43873e/blob/master/LICENSE"><img src="https://img.shields.io/github/license/CJX0712/aether-ai-core-43873e" alt="license"></a>
+  <a href="https://github.com/CJX0712/aether-ai-core-v2/actions/workflows/ci.yml"><img src="https://github.com/CJX0712/aether-ai-core-v2/actions/workflows/ci.yml/badge.svg" alt="ci"></a>
+  <a href="https://github.com/CJX0712/aether-ai-core-v2/releases"><img src="https://img.shields.io/github/v/release/CJX0712/aether-ai-core-v2?sort=semver" alt="release"></a>
+  <a href="https://github.com/CJX0712/aether-ai-core-v2/blob/master/LICENSE"><img src="https://img.shields.io/github/license/CJX0712/aether-ai-core-v2" alt="license"></a>
   <img src="https://img.shields.io/badge/author-%E6%99%A8%E6%98%9F-1f6feb" alt="author">
 </p>
 
@@ -13,7 +13,7 @@
 
 **作者：晨星**
 
-> 仓库地址：https://github.com/CJX0712/aether-ai-core-43873e
+> 仓库地址：https://github.com/CJX0712/aether-ai-core-v2
 
 ---
 
